@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Learning Dashboard</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue your learning journey</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="dashboard_title">My Courses</string>
+    <string name="course_details_title">Course Details</string>
+    <string name="continue_learning">Continue</string>
+    <string name="lessons_count">%1$d Lessons</string>
+    <string name="progress_format">%1$d%%</string>
+    <string name="completed_status">Completed</string>
+    <string name="pending_status">Pending</string>
+    <string name="retry">Retry</string>
+    <string name="offline_cached_notice">Offline Mode: Displaying saved courses</string>
+</resources>
