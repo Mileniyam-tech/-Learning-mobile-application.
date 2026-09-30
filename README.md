@@ -1,4 +1,4 @@
-# Learning Dashboard — Senior Android Engineering Assignment
+# Learning Dashboard
 
 A modern, offline-first Android application built with **Kotlin**, **Jetpack Compose**, **Coroutines / Flow**, and **Room Database**, adhering to **Clean Architecture** and **MVVM** principles.
 
